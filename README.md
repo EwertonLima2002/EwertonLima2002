@@ -1,36 +1,30 @@
-### Olá sou Ewerton Lima :) 👋
+## Hi! I'm Ewerton Lima 
 
+###  Tech Stack:
 
 <div>
-  <a href="https://github.com/EwertonLima2002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonLima2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonLima2002&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
-   
-<div style="display: inline_block"><br>
-  <h1>Minhas Habilidades<br>
-  <img align="center" alt="Ewerton-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ewerton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ewerton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img  align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
- <img  align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  
-</div>
-  
-  
-##
-  
-  <div>
-  <a href="https://www.youtube.com/ewertonlima" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ewerton.lima.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/ewertonlima" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "ewertonzorolima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ewerton-lima-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-</div>
-  <br>
+    <img alt="HTML5 icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+    <img alt="CSS3 icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+    <img alt="JavaScript icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
+
+</div>
+
+### Contact:
+
+<div>
+    <a href="/https://www.linkedin.com/in/will-gustavo-dantas-adolpho-54532922b/" target="_blank"><img alt ="Linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%22/%3E"></a>
+    <a href="mailto:willgustavodantasadolpho@gmail.com" target="_blank"><img alt ="Gmail logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white%22/%3E"></a>
+    <a href="h" target="_blank"><img alt ="Instagram logo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white%22/%3E"></a>
+</div>
+
+### GitHub Analytics
+
+<div>
+    <a href="https://github.com/willgustavo1234">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonLima2002&show_icons=true&theme=cobalt">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willgustavo1234&theme=cobalt&layout=compact&langs_count=8%22/%3E">
+    </a>
+</div>
+
+![Snake animation](https://github.com/willgustavo1234/EwertonLima2002/blob/output/github-contribution-grid-snake.svg)
