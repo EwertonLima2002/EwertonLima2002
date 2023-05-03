@@ -1,4 +1,4 @@
-## Hi! I'm Viadin
+## Hi! I'm nóia and queen of night
 
 ###  Tech Stack:
 
