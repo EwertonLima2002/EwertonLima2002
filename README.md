@@ -14,7 +14,7 @@
 
 • 👨‍🎓Sou estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School.
 
-• 📧 Meu e-mail de contato: will.adolpho@sptech.school
+• 📧 Meu e-mail de contato: ewerton.lima860@sptech.school
 
 ## 👨‍ 💻Tecnologias e recusos:
 
