@@ -2,16 +2,18 @@
 
 ### 🌐 GitHub
 
-<div>
-    <a href="https://github.com/EwertonLima2002">
-        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=EwertonLima2002&show_icons=true&theme=tokyonight">
-    </a>
-</div>
+<div style="display: flex;">
+    <div>
+        <a href="https://github.com/EwertonLima2002">
+            <img height="175em" src="https://github-readme-stats.vercel.app/api?username=EwertonLima2002&show_icons=true&theme=tokyonight">
+        </a>
+    </div>
 
-<div>
-    <a href="https://github.com/EwertonLima2002">
-        <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonLima2002&theme=tokyonight&layout=compact&langs_count=8">
-    </a>
+    <div>
+        <a href="https://github.com/EwertonLima2002">
+            <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonLima2002&theme=tokyonight&layout=compact&langs_count=8">
+        </a>
+    </div>
 </div>
 
 • 💻 Desenvolvedor.
@@ -20,7 +22,7 @@
 
 • 📧 Meu e-mail de contato: ewerton.lima860@sptech.school
 
-## 👨‍💻Tecnologias e recusos:
+## 👨‍💻 Tecnologias e recursos:
 
 <div align="center">
     <code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
