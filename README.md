@@ -27,6 +27,8 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" /></code>
 	<code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
-			<code><img height="50" src="https://developer.salesforce.com/resources2/quests/badge2.png" alt="Lwc" title="Lwc" />
+	</code>
+	<code><img height="50" src="https://developer.salesforce.com/resources2/quests/badge2.png" alt="Lwc" title="Lwc" />
 					<code><img height="50" src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" alt="Apex" title="Apex" />
 </code>
+	<div>
