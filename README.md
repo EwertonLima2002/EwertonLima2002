@@ -1,4 +1,5 @@
 ## Bem Vindo ao meu Git, Meu nome é Ewerton, fico feliz por receber sua visita aqui!! 👨‍💻
+<script src="https://kit.fontawesome.com/98e9292b2b.js" crossorigin="anonymous"></script>
 
 ### 🌐 GitHub
 
@@ -23,13 +24,12 @@
 ## 👨‍💻 Tecnologias e recursos:
 
 <div align="center">
-    <code><img height="50" src="https://fontawesome.com/v5.15/icons/git-alt?style=brands" alt="Git" title="Git" /></code>
-    <code><img height="50" src="https://fontawesome.com/v5.15/icons/html5?style=brands" alt="HTML" title="HTML" /></code>
-    <code><img height="50" src="https://fontawesome.com/v5.15/icons/css3?style=brands" alt="CSS" title="CSS" /></code>
-    <code><img height="50" src="https://fontawesome.com/v5.15/icons/js?style=brands" alt="JavaScript" title="JavaScript" /></code>
-    <code><img height="50" src="https://fontawesome.com/v5.15/icons/node-js?style=brands" alt="Node.js" title="Node.js" /></code>
-    <code><img height="50" src="https://fontawesome.com/v5.15/icons/database?style=regular" alt="MySQL" title="MySQL" /></code>
-    <code><img height="50" src="https://fontawesome.com/v5.15/icons/java?style=brands" alt="Java" title="Java" /></code>
-    <code><img height="50" src="https://fontawesome.com/v5.15/icons/cloud?style=regular" alt="Lwc" title="Lwc" /></code>
-    <code><img height="50" src="https://fontawesome.com/v5.15/icons/java?style=brands" alt="Apex" title="Apex" /></code>
+    <i class="fab fa-git-alt fa-3x" title="Git"></i>
+    <i class="fab fa-html5 fa-3x" title="HTML"></i>
+    <i class="fab fa-css3-alt fa-3x" title="CSS"></i>
+    <i class="fab fa-js fa-3x" title="JavaScript"></i>
+    <i class="fab fa-node fa-3x" title="Node.js"></i>
+    <i class="fas fa-database fa-3x" title="MySQL"></i>
+    <i class="fab fa-java fa-3x" title="Java"></i>
+    <i class="fab fa-salesforce fa-3x" title="Salesforce"></i>
 </div>
