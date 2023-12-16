@@ -1,5 +1,5 @@
 ## Bem Vindo ao meu Git, Meu nome é Ewerton, fico feliz por receber sua visita aqui!! 👨‍💻
-<script src="https://kit.fontawesome.com/98e9292b2b.js" crossorigin="anonymous"></script>
+
 
 ### 🌐 GitHub
 
@@ -24,12 +24,13 @@
 ## 👨‍💻 Tecnologias e recursos:
 
 <div align="center">
-    <i class="fab fa-git-alt fa-3x" title="Git"></i>
-    <i class="fab fa-html5 fa-3x" title="HTML"></i>
-    <i class="fab fa-css3-alt fa-3x" title="CSS"></i>
-    <i class="fab fa-js fa-3x" title="JavaScript"></i>
-    <i class="fab fa-node fa-3x" title="Node.js"></i>
-    <i class="fas fa-database fa-3x" title="MySQL"></i>
-    <i class="fab fa-java fa-3x" title="Java"></i>
-    <i class="fab fa-salesforce fa-3x" title="Salesforce"></i>
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" />
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" />
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
+    <img height="50" src="https://developer.salesforce.com/resources2/quests/badge2.png" alt="Lwc" title="Lwc" />
+    <img height="50" src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" alt="Apex" title="Apex" />
 </div>
