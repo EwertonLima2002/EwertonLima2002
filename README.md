@@ -37,4 +37,6 @@
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
     <img height="50" src="https://developer.salesforce.com/resources2/quests/badge2.png" alt="Lwc" title="Lwc" />
     <img height="50" src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" alt="Apex" title="Apex" />
+     <img height="50" src="https://logowik.com/content/uploads/images/salesforce-marketing-cloud1855.logowik.com.webp" alt="Marketing Cloud" title="Marketing Cloud" />
+  
 </div>
