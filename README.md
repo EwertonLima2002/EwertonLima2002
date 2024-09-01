@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/89ea6596-36ea-452b-aa1b-4433d0a18bb9)## Bem Vindo ao meu Git, Meu nome é Ewerton, fico feliz por receber sua visita aqui!! 👨‍💻
+## Bem Vindo ao meu Git, Meu nome é Ewerton, fico feliz por receber sua visita aqui!! 👨‍💻
 
 
 ### 🌐 GitHub
@@ -37,6 +37,6 @@
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
   <img height="50" src="https://www.awesomelwc.com/resources/lwc.png" alt="Lwc" title="Lwc" />
     <img height="50" src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" alt="Apex" title="Apex" />
-     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/2560px-Salesforce.com_logo.svg.png" alt="Marketing Cloud" title="Salesforce" />
+     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/2560px-Salesforce.com_logo.svg.png" alt="Salesfoce" title="Salesforce" />
   
 </div>
