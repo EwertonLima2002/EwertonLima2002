@@ -39,5 +39,5 @@
   <img height="50" src="https://www.awesomelwc.com/resources/lwc.png" alt="Lwc" title="Lwc" />
     <img height="50" src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" alt="Apex" title="Apex" />
      <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/2560px-Salesforce.com_logo.svg.png" alt="Salesfoce" title="Salesforce" />
-  
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" title="Linux" />
 </div>
