@@ -31,7 +31,7 @@
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" />
      <img height="50" src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="React.js" title="React" />
     <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" />
-        <img height="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="postgree" title="postgree" />
+        <img height="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" alt="Postgre SQL" title="Postgre SQL" />
     <img height="50" src="https://www.tutorlinux.com.br/wp-content/uploads/2017/07/mariadb-logo.png" alt="Maria Db" title="Maria Db" />
  <img height="50" src="https://i.pinimg.com/originals/f0/1f/69/f01f692c14ed47421cbc564ae4bf0ed3.png" alt="Go" title="Go" />
      <img height="50" src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" alt="Spring boot" title="Spring boot" />
