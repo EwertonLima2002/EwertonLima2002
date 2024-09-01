@@ -37,6 +37,6 @@
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
   <img height="50" src="https://www.awesomelwc.com/resources/lwc.png" alt="Lwc" title="Lwc" />
     <img height="50" src="https://www.opencodez.com/wp-content/uploads/2018/04/Learning-Apex-Salesforce.png" alt="Apex" title="Apex" />
-     <img height="50" src="https://w7.pngwing.com/pngs/418/26/png-transparent-salesforce-com-organization-logo-siebel-systems-customer-relationship-management-business-love-blue-text.png" alt="Marketing Cloud" title="Salesforce" />
+     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/2560px-Salesforce.com_logo.svg.png" alt="Marketing Cloud" title="Salesforce" />
   
 </div>
